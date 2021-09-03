@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/andrei-react-robofriends/static/css/main.7b56e904.chunk.css",
-    "main.js": "/andrei-react-robofriends/static/js/main.17211271.chunk.js",
-    "main.js.map": "/andrei-react-robofriends/static/js/main.17211271.chunk.js.map",
-    "runtime-main.js": "/andrei-react-robofriends/static/js/runtime-main.94149f33.js",
-    "runtime-main.js.map": "/andrei-react-robofriends/static/js/runtime-main.94149f33.js.map",
+    "main.js": "/andrei-react-robofriends/static/js/main.dd5c2fa1.chunk.js",
+    "main.js.map": "/andrei-react-robofriends/static/js/main.dd5c2fa1.chunk.js.map",
+    "runtime-main.js": "/andrei-react-robofriends/static/js/runtime-main.b2ed6395.js",
+    "runtime-main.js.map": "/andrei-react-robofriends/static/js/runtime-main.b2ed6395.js.map",
     "static/css/2.31461e4f.chunk.css": "/andrei-react-robofriends/static/css/2.31461e4f.chunk.css",
-    "static/js/2.5918dea6.chunk.js": "/andrei-react-robofriends/static/js/2.5918dea6.chunk.js",
-    "static/js/2.5918dea6.chunk.js.map": "/andrei-react-robofriends/static/js/2.5918dea6.chunk.js.map",
-    "static/js/3.6c435917.chunk.js": "/andrei-react-robofriends/static/js/3.6c435917.chunk.js",
-    "static/js/3.6c435917.chunk.js.map": "/andrei-react-robofriends/static/js/3.6c435917.chunk.js.map",
+    "static/js/2.c46f5383.chunk.js": "/andrei-react-robofriends/static/js/2.c46f5383.chunk.js",
+    "static/js/2.c46f5383.chunk.js.map": "/andrei-react-robofriends/static/js/2.c46f5383.chunk.js.map",
+    "static/js/3.4a37a3ae.chunk.js": "/andrei-react-robofriends/static/js/3.4a37a3ae.chunk.js",
+    "static/js/3.4a37a3ae.chunk.js.map": "/andrei-react-robofriends/static/js/3.4a37a3ae.chunk.js.map",
     "index.html": "/andrei-react-robofriends/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/andrei-react-robofriends/static/css/2.31461e4f.chunk.css.map",
     "static/css/main.7b56e904.chunk.css.map": "/andrei-react-robofriends/static/css/main.7b56e904.chunk.css.map",
-    "static/js/2.5918dea6.chunk.js.LICENSE.txt": "/andrei-react-robofriends/static/js/2.5918dea6.chunk.js.LICENSE.txt"
+    "static/js/2.c46f5383.chunk.js.LICENSE.txt": "/andrei-react-robofriends/static/js/2.c46f5383.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.94149f33.js",
+    "static/js/runtime-main.b2ed6395.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.5918dea6.chunk.js",
+    "static/js/2.c46f5383.chunk.js",
     "static/css/main.7b56e904.chunk.css",
-    "static/js/main.17211271.chunk.js"
+    "static/js/main.dd5c2fa1.chunk.js"
   ]
 }
