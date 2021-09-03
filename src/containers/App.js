@@ -1,8 +1,9 @@
-import React, { useState, useEffect } from "react";
+import React, { useEffect } from "react";
 import CardList from "../components/CardList";
 import SearchBox from "../components/SearchBox";
 import "./App.css";
 import Scroll from "../components/Scroll";
+import Header from "../components/Header";
 import { connect } from "react-redux";
 import { requestRobots, setSearchField } from "../actions";
 
@@ -28,7 +29,7 @@ function App(props) {
 
 	useEffect(() => {
 		onRequestRobots();
-	}, []);
+	}, [onRequestRobots]);
 
 	const filteredRobots = robots.filter((robot) => {
 		return robot.name.toLowerCase().includes(searchField.toLowerCase());
@@ -38,7 +39,7 @@ function App(props) {
 		<h1>Loading</h1>
 	) : (
 		<div className="tc">
-			<h1 className="f1">RoboFriends</h1>
+			<Header />
 			<SearchBox searchChange={onSearchChange} />
 			<Scroll>
 				<CardList robots={filteredRobots} />
