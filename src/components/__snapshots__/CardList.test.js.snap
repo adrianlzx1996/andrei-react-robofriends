@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`expect to render CardList component Snapshot 1`] = `
+<div>
+  <Card
+    email="Sincere@april.biz"
+    id={1}
+    key="1"
+    name="Leanne Graham"
+  />
+  <Card
+    email="Shanna@melissa.tv"
+    id={2}
+    key="2"
+    name="Ervin Howell"
+  />
+  <Card
+    email="Nathan@yesenia.net"
+    id={3}
+    key="3"
+    name="Clementine Bauch"
+  />
+  <Card
+    email="Julianne.OConner@kory.org"
+    id={4}
+    key="4"
+    name="Patricia Lebsack"
+  />
+  <Card
+    email="Lucio_Hettinger@annie.ca"
+    id={5}
+    key="5"
+    name="Chelsey Dietrich"
+  />
+  <Card
+    email="Karley_Dach@jasper.info"
+    id={6}
+    key="6"
+    name="Mrs. Dennis Schulist"
+  />
+  <Card
+    email="Telly.Hoeger@billy.biz"
+    id={7}
+    key="7"
+    name="Kurtis Weissnat"
+  />
+  <Card
+    email="Sherwood@rosamond.me"
+    id={8}
+    key="8"
+    name="Nicholas Runolfsdottir V"
+  />
+  <Card
+    email="Chaim_McDermott@dana.io"
+    id={9}
+    key="9"
+    name="Glenna Reichert"
+  />
+  <Card
+    email="Rey.Padberg@karina.biz"
+    id={10}
+    key="10"
+    name="Clementina DuBuque"
+  />
+</div>
+`;
